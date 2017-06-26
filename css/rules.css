@@ -1,0 +1,59 @@
+
+h1 {
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 5px;
+    font-size: 70px;
+    padding: 10px;
+
+}
+header {
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    background: url("../images/expand.jpg");
+    background-size: cover;
+    border-right: 5px ridge #e8c2d3;
+    border-bottom: 5px ridge #e8c2d3;
+    border-left: 5px ridge #c98dc6;
+    border-top: 5px ridge #c98dc6;
+    border-radius: 5px;
+}
+ul {
+    padding: 0px;
+    margin-bottom: 15px;
+}
+li {
+    display: inline;
+    padding: 0px 100px 0px 100px;
+    background: rgba(215, 193, 210, 0.7);
+    padding: 5px;
+    border-radius: 5px;
+}
+a {
+    color: rgba(255, 255, 255, .8);
+}
+body {
+    background-image: url("../images/stars.jpg");
+    font-family: 'Cuprum', sans-serif;
+
+
+}
+p { 
+    color: white;
+    text-align: center;
+}
+div{
+    height: 500px;
+    background-size: cover;
+    border-radius: 12px;
+}
+.winds {
+    background-image: url("../images/nuno1.png");
+}
+.mans {
+    background-image: url("../images/nuno2.png");
+}
+.shipwreck {
+    background-image: url("../images/nuno3.png");
+
+}
